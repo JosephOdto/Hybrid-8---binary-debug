@@ -1,6 +1,3 @@
-# Hybrid-8---binary-debug
-Debugged a code about converting decimal to binary
-
 
 import java.lang.*; 		//all import statements must be first
 import java.util.*;			//program uses class Scanner
